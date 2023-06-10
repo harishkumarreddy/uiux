@@ -7,11 +7,11 @@
     -> Data Persistance Layer:(DB) SQL, NoSQL, XML, JSON
 
 ## Frontend:
-    1. Layout
+    1. Layout -> UI
         -> wireframe
         -> mockup
         -> prototype
-        -> HTML -> UI
+        -> HTML
     2. Style (UIUX)
         -> CSS
         -> SASS
@@ -40,7 +40,7 @@
     10. Postman - API Testing
     ** Web Server - Apache, PM2
 
-## Lourning Path:
+## Learning Path:
     1. Software Architecture
         1.1. 1 Tier
         1.2. 2 Tier
